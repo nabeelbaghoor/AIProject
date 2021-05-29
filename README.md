@@ -1,4 +1,4 @@
-##CORE:
+#CORE:
 
 1. Understand A\* Path Finding tutorial:
    1. Youtube: <https://www.youtube.com/watch?v=JtiK0DOeI4A>
@@ -16,7 +16,7 @@
 
 
 
-##BONUS:
+#BONUS:
 
 1. [Easy user interaction] simply add UI buttons or anything for making things easy to do for users, etc.
 1. [Switch button for static/dynamic] first, the user should be able to place both types of obstacles(static/dynamic) and can choose type by this switch button.
