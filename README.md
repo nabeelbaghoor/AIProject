@@ -2,8 +2,8 @@
 # CORE:
 
 1. Understand A* Path Finding tutorial:
-    a. Youtube: https://www.youtube.com/watch?v=JtiK0DOeI4A
-    b. My code: https://github.com/nabeelbaghoor/AIProject
+    a. Youtube:https://www.youtube.com/watch?v=JtiK0DOeI4A
+    b. My code:https://github.com/nabeelbaghoor/AIProject
 2. Change this code to support RTA* by simply replacingthe
     algorithm function’s A* code with to RTA* code.
 3. Set accordingly and make it work as before!!
@@ -37,5 +37,3 @@
 4. [Implement an actual robot] with RTA* [EASY] whichcan work with
     moving obstacles as well if placed!! [So, it is aseasy as it was before for
     A* algorithm]
-
-
