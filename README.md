@@ -2,10 +2,9 @@
 # CORE:
 
 1. Understand A* Path Finding tutorial:
-    a. Youtube:https://www.youtube.com/watch?v=JtiK0DOeI4A
-    b. My code:https://github.com/nabeelbaghoor/AIProject
-2. Change this code to support RTA* by simply replacingthe
-    algorithm function’s A* code with to RTA* code.
+      a. Youtube:https://www.youtube.com/watch?v=JtiK0DOeI4A
+      b. My code:https://github.com/nabeelbaghoor/AIProject
+2. Change this code to support RTA* by simply replacing the algorithm function’s A* code with to RTA* code.
 3. Set accordingly and make it work as before!!
 4. Add moving obstacles functionality by:
     a. Replacing add "static obstacle" code to "dynamic obstacle"
